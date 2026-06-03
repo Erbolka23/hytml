@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+groq
+apscheduler
+
+# pip install -r requirements.txt
